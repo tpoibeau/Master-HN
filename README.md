@@ -1,3 +1,3 @@
-# NLP Course, Digital Humanities Mster, PSL
+# NLP Course, Digital Humanities Master, PSL
 
 Slides and Jupyter notebooks for the course
